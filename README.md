@@ -1,6 +1,6 @@
 
 # Sample SOAP client-server sample
-This repository contains a sample iOS SOAP client application. And a dockerized NodeJS SOAP simple server. This is the base code used in following posts [From Zero so SOAP](https://javios.net/2025/05/30/from-zero-to-soap/) 
+This repository contains a sample iOS SOAP client application. And a dockerized NodeJS SOAP simple server. This is the base code used in following posts [From Zero so SOAP](https://javios.eu/swift/from-zero-to-soap/) 
 
 
 ## 🎥 Demo Video
